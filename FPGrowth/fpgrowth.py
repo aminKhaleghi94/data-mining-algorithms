@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Jul  8 02:22:13 2017
 
-@author: rafael
-"""
 
 from collections import defaultdict, deque, OrderedDict
 
