@@ -1,4 +1,4 @@
-# data-mining
+# Data Mining
 
 Projeto da disciplina de Mineração de Dados da Universidade de São Paulo - USP.
 
